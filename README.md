@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> · <a href="./README_RU.md">Русский</a>
+</p>
+
 # Spot the Bot: Semantic Trajectories of Natural Language
 
 Bachelor's thesis project at HSE University (2023) on distinguishing human- and machine-generated text through structural representations of language.
